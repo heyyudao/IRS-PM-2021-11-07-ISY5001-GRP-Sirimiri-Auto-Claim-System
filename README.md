@@ -27,6 +27,11 @@ The solution proposed by Yudao and Engkoon is a chatbot built on the most popula
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
+System Design Video :
+https://www.youtube.com/watch?v=mtTn3NuAg8c
+
+Promotion Video :
+https://www.youtube.com/watch?v=U7-XRnyQDtg
 
 ---
 
