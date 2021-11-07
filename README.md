@@ -37,16 +37,14 @@ https://www.youtube.com/watch?v=U7-XRnyQDtg
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to System Code Folder : Appendix _ Readme_Installation_User Guide.docx`
+The chatbot is already deployed. Save +1 (415) 319-9749 in your phone to start using.
 
-The chatbot is already deployed. Save +1 (415) 319-9749 in your photo to start using.
-
-For system code, please download 
+For system code, please download sirimiri_chatbot.rdp in system code folder and login using the password (found in Luminus)
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`Refer to project report at Github Folder: ProjectReport`
+Project Report please refer to project report folder
 
 ---
 ## SECTION 7 : MISCELLANEOUS
