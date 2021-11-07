@@ -37,8 +37,11 @@ https://www.youtube.com/watch?v=U7-XRnyQDtg
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
+`Refer to System Code Folder : Appendix _ Readme_Installation_User Guide.docx`
 
+The chatbot is already deployed. Save +1 (415) 319-9749 in your photo to start using.
+
+For system code, please download 
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
