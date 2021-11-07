@@ -1,8 +1,4 @@
-﻿## SECTION 1 : PROJECT TITLE
-## Sirimiri Auto Claim System
-
-<img src="SystemCode/clips/static/hdb-bto.png"
-     style="float: left; margin-right: 0px;" />
+﻿## SECTION 1 : Sirimiri Auto Claim System
 
 ---
 
