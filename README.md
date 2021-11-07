@@ -7,6 +7,7 @@
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
+
 Sirimiri Private Limited is a newly established international Food & Beverages Services company based in Singapore. The company aims to bring the best quality food across the globe to Singaporeans. The company's employees are constantly travelling to different countries to source the best quality food products. Hence, many expenses are spent overseas, be it taxis, food expenses, hotel accommodations etc. As Sirimiri Private Limited's business expanded, the company's claiming process had become a hassle to the management team. Therefore, the CEO of Sirimiri Private Limited has decided to look into Artificial Intelligence and automation to see if there is an intelligent solution for this. 
 
 Sirimiri Private Limited have approached Yudao and Engkoon. They are students of NUS ISS undertaking the Graduate Certificate in Intelligent Reasoning Systems to develop an intelligent application to help the company automate their claiming process. Sirimiri Private Limited is looking for a fast rule-based automation setup built on a readily available platform, so its employees can claim their expenses anywhere around the globe. 
@@ -17,9 +18,9 @@ The solution proposed by Yudao and Engkoon is a chatbot built on the most popula
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-| Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
-| HE YUDAO     | S9173308J | Report (WhatsApp Chatbot) | 
-| LEE ENG KOON | A1234567B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| 
+| Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | 
+| HE YUDAO     | SXXXX308J | Report / WhatsApp Chatbot / OCR / Fraud Detection | 
+| LEE ENG KOON | SXXXX024A | Report / jBPM development / OCR | 
 
 
 ---
