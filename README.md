@@ -17,6 +17,7 @@ The solution proposed by Yudao and Engkoon is a chatbot built on the most popula
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | 
+
 | HE YUDAO     | SXXXX308J | Report / WhatsApp Chatbot / OCR / Fraud Detection | 
 | LEE ENG KOON | SXXXX024A | Report / jBPM development / OCR | 
 
